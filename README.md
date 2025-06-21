@@ -48,7 +48,7 @@
 
 ### 📈 Atividade recente
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lorranlucas&bg_color=0d1117&color=0aa47b&line=0aa47b&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Victor&bg_color=0d1117&color=0aa47b&line=0aa47b&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
