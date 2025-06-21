@@ -52,16 +52,6 @@
 
 ---
 
-### 📱 Redes & Contato
-
-<div align="center"> 
-  <a href="https://instagram.com/seuusuario" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.roblox.com/users/SEU-ID/profile" target="_blank"><img src="https://img.shields.io/badge/-Roblox-0D1117?style=for-the-badge&logo=roblox&logoColor=white&color=0aa47b"/></a>
-</div>
-
----
-
 ### 👁️‍🗨️ Visitantes
 
 <p align="center">
